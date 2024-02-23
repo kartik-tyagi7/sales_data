@@ -1,0 +1,13 @@
+State,Category,Product,Quantity,SalesAmount,Year,Month
+California,Electronics,Laptop,100,150000,2024,01
+California,Home Appliances,Refrigerator,50,75000,2024,01
+California,Mobile Offices,Portable Printer,30,45000,2024,02
+New York,Electronics,Smartphone,120,180000,2024,02
+New York,Home Appliances,Washing Machine,70,105000,2024,03
+New York,Mobile Offices,Laptop Docking Station,40,60000,2024,03
+Texas,Electronics,TV,80,120000,2024,04
+Texas,Home Appliances,Coffee Maker,35,52500,2024,04
+Texas,Mobile Offices,Tablet,25,37500,2024,05
+Florida,Electronics,Headphones,60,90000,2024,05
+Florida,Home Appliances,Microwave,40,60000,2024,06
+Florida,Mobile Offices,Wireless Keyboard,20,30000,2024,06
